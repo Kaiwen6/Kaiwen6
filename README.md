@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kaiwen6
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning CV
+- 🌱 I’m currently learning SOC、SOH
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
